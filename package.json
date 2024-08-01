@@ -3,8 +3,9 @@
   "displayName": "Call of the Swamp",
   "repository": { 
   "type": "git", 
-  "url": ""
+  "url": "https://github.com/anonknowsit/call-of-theswamp.git"
   },
+  "icon": "call-of-the-swamp.jpeg",
   "publisher": "Anonknowsit",
   "description": "This VSCode extension theme will transform your VSCode to a swamp-like environment.",
   "version": "0.0.1",

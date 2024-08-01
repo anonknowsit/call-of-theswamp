@@ -1,5 +1,11 @@
 # Call of the Swamp
 
+<p align=center>
+<img src="call-of-the-swamp.jpeg" width="250" height="250"> 
+</p>
+
+<br>
+
 A dark theme for Visual Studio Code inspired by the tranquil and mysterious atmosphere of swamp landscapes. This theme features earthy tones and soothing colors, perfect for long coding sessions.
 
 ## Installation
